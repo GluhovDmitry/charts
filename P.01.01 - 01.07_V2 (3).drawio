@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T00:19:36.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 YaBrowser/20.8.2.92 Yowser/2.5 Safari/537.36" etag="bLrQuAXs3zJw90YCxbJI" version="13.6.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-09-07T00:23:55.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 YaBrowser/20.8.2.92 Yowser/2.5 Safari/537.36" etag="d3L2ABHmSNZ5R4Zeb2ju" version="13.6.6" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1054" dy="585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1150,7 +1150,7 @@
         <mxCell id="03YL-fQPQ2HeiHD3kpbZ-1" value="Проведение и учет фактических затрат на подзаказах" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="E2uEG9B_aQFYtEAOop1q-1" vertex="1">
           <mxGeometry x="120" y="224.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jh-JjPKWh2RWZMMa6tFb-0" value="P.01.06.01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E2uEG9B_aQFYtEAOop1q-1" vertex="1">
+        <mxCell id="Jh-JjPKWh2RWZMMa6tFb-0" value="P.01.07.01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E2uEG9B_aQFYtEAOop1q-1" vertex="1">
           <mxGeometry x="191" y="204.5" width="49" height="20" as="geometry" />
         </mxCell>
         <mxCell id="w9eFnT5JxkWsALya2_3a-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="E2uEG9B_aQFYtEAOop1q-1" source="Jh-JjPKWh2RWZMMa6tFb-2" target="w9eFnT5JxkWsALya2_3a-7" edge="1">
@@ -1161,7 +1161,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jh-JjPKWh2RWZMMa6tFb-2" value="Распределение фактических затрат; прямые бухгалтерские проводки" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="E2uEG9B_aQFYtEAOop1q-1" vertex="1">
+        <mxCell id="Jh-JjPKWh2RWZMMa6tFb-2" value="&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Распределение фактических затрат на&lt;br/&gt;СПП-элементах 5ого уровня&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="E2uEG9B_aQFYtEAOop1q-1" vertex="1">
           <mxGeometry x="310" y="210" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w9eFnT5JxkWsALya2_3a-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="E2uEG9B_aQFYtEAOop1q-1" source="w9eFnT5JxkWsALya2_3a-0" target="03YL-fQPQ2HeiHD3kpbZ-1" edge="1">
@@ -1173,7 +1173,7 @@
         <mxCell id="w9eFnT5JxkWsALya2_3a-0" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="E2uEG9B_aQFYtEAOop1q-1" vertex="1">
           <mxGeometry x="255" y="165" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w9eFnT5JxkWsALya2_3a-1" value="P.01.06.02" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E2uEG9B_aQFYtEAOop1q-1" vertex="1">
+        <mxCell id="w9eFnT5JxkWsALya2_3a-1" value="P.01.07.02" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E2uEG9B_aQFYtEAOop1q-1" vertex="1">
           <mxGeometry x="411" y="190" width="49" height="20" as="geometry" />
         </mxCell>
         <mxCell id="w9eFnT5JxkWsALya2_3a-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="E2uEG9B_aQFYtEAOop1q-1" source="w9eFnT5JxkWsALya2_3a-7" target="w9eFnT5JxkWsALya2_3a-8" edge="1">
