@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T00:49:10.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 YaBrowser/20.8.2.92 Yowser/2.5 Safari/537.36" etag="Y-RjFsJyZbKXMB3eB4f8" version="13.6.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-09-07T00:50:58.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 YaBrowser/20.8.2.92 Yowser/2.5 Safari/537.36" etag="ULaDbATMF3O9Q9LbbDne" version="13.6.6" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1 (Done)">
     <mxGraphModel dx="1881" dy="585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1401,6 +1401,9 @@
         </mxCell>
         <mxCell id="0AapjfRUAVLCC3YJABJL-11" value="&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.4pt&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;P.01.08.02.03&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="M-XGShOCnvAhqz2bpC7C-1">
           <mxGeometry x="357" y="403" width="100" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="0AapjfRUAVLCC3YJABJL-12" value="Здесь не понял: 01.08.01-03 тоже формируются на стороне АСКИД?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="M-XGShOCnvAhqz2bpC7C-1">
+          <mxGeometry x="92" y="279" width="393" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
