@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T00:39:35.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 YaBrowser/20.8.2.92 Yowser/2.5 Safari/537.36" etag="P-3xklD7uvOAhDdrNQ_4" version="13.6.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-09-07T00:40:05.557Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 YaBrowser/20.8.2.92 Yowser/2.5 Safari/537.36" etag="AMM_wsqYkpuiKNqgQfWT" version="13.6.6" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1 (Done)">
     <mxGraphModel dx="1881" dy="585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -208,9 +208,9 @@
         <mxCell id="VsEbySm1sSZCZi7b0_Ue-2" value="Инициатор" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="250" y="491" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="s8GqCYjSKLK5IoYDf4VW-6" value="" style="endArrow=classic;html=1;exitX=0.456;exitY=-0.026;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s8GqCYjSKLK5IoYDf4VW-1" target="UifbFWHWKCnpqta1OFgQ-3">
+        <mxCell id="s8GqCYjSKLK5IoYDf4VW-6" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xVWU3qVhVK72iYCoGmAy-0" target="UifbFWHWKCnpqta1OFgQ-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="387" y="1120" as="sourcePoint" />
+            <mxPoint x="163.94290076335892" y="1172.4655555555555" as="sourcePoint" />
             <mxPoint x="437" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -240,21 +240,6 @@
               <mxPoint x="308" y="1002" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="uCG1Ro20KsIEoRLT_VfN-4" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="87" y="1168.5" width="166" height="83" as="geometry" />
-        </mxCell>
-        <mxCell id="s8GqCYjSKLK5IoYDf4VW-5" value="" style="group" vertex="1" connectable="0" parent="uCG1Ro20KsIEoRLT_VfN-4">
-          <mxGeometry width="166" height="83" as="geometry" />
-        </mxCell>
-        <mxCell id="s8GqCYjSKLK5IoYDf4VW-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="s8GqCYjSKLK5IoYDf4VW-5">
-          <mxGeometry width="152.06106870229007" height="69.16666666666666" as="geometry" />
-        </mxCell>
-        <mxCell id="s8GqCYjSKLK5IoYDf4VW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="s8GqCYjSKLK5IoYDf4VW-5">
-          <mxGeometry x="7.603053435114504" y="5.763888888888888" width="152.06106870229007" height="69.16666666666666" as="geometry" />
-        </mxCell>
-        <mxCell id="s8GqCYjSKLK5IoYDf4VW-2" value="Материалы и др. документы на базе&amp;nbsp;&lt;span lang=&quot;EN-US&quot;&gt;GCM&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="s8GqCYjSKLK5IoYDf4VW-5">
-          <mxGeometry x="13.938931297709923" y="13.833333333333332" width="152.06106870229007" height="69.16666666666666" as="geometry" />
         </mxCell>
         <mxCell id="554fgYSlWopm2N4RrLIp-0" value="Обосновывающие материалы и др. документы прикреплены" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.07142857142857142;strokeColor=#ae4132;fillColor=#FACDE8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="228" y="1066" width="160" height="73" as="geometry" />
@@ -328,6 +313,9 @@
             <mxPoint x="387" y="1042" as="sourcePoint" />
             <mxPoint x="437" y="992" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xVWU3qVhVK72iYCoGmAy-0" value="Материалы и др. документы на базе&amp;nbsp;&lt;span lang=&quot;EN-US&quot;&gt;GCM&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="1183" width="149" height="83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
