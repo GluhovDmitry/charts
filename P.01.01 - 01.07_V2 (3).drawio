@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T00:15:07.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 YaBrowser/20.8.2.92 Yowser/2.5 Safari/537.36" etag="kw9rlz2sJKYC5dugIcq0" version="13.6.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-09-07T00:15:28.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 YaBrowser/20.8.2.92 Yowser/2.5 Safari/537.36" etag="N4y5FSxMBKXuVpT6Ugjp" version="13.6.6" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1054" dy="585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -797,7 +797,7 @@
             <mxPoint x="291" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qUDjnf6Tw16llpes-nKN-0" value="&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;передача данных в АСКИД&lt;/span&gt;" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="hhKOQZns3760f8i8-geJ-1">
+        <mxCell id="qUDjnf6Tw16llpes-nKN-0" value="&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Передача данных в АСКИД&lt;/span&gt;" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="hhKOQZns3760f8i8-geJ-1">
           <mxGeometry x="-133" y="612" width="121" height="120" as="geometry" />
         </mxCell>
         <mxCell id="T5lQ1C4pBilLxp9L4Yx2-5" value="" style="group" vertex="1" connectable="0" parent="hhKOQZns3760f8i8-geJ-1">
